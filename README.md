@@ -1,7 +1,5 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="33"> there, I'm <span style="color: #447ED5">Rohit Mourya!</span><img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="33">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-mourya/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrrohit00123/)
-
 ## Glad to see you here! ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MrRohitMI.Clone-Pluralsight) [![GitHub followers](https://img.shields.io/github/followers/MrRohitMI.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/MrRohitMI?tab=followers)
 
 <h4> I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.</h4>
@@ -15,6 +13,9 @@
 📫 Contact me at rohitmourya0012@gmail.com
 
 💼 Portfolio https://mrrohitmi.github.io/portfolio/
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-mourya/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrrohit00123/)
 
 - B.Tech from Sri Rammurti Smarak College Of Engineering Technology & Research, Bareilly
 
